@@ -28,7 +28,6 @@
             android:text="Female"
             android:textStyle="normal|bold"
             android:layout_weight="1"/>
-
     </RadioGroup>
 
 </LinearLayout>
